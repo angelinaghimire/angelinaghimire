@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Angelina Ghimire</h1>
 <h3 align="center">A passionate AI/ML developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=angelinaghimire&label=Profile%20views&color=0e75b6&style=flat" alt="angelinaghimire" /> </p>
 
 - 🔭 I’m currently working on [AI Fellowship](https://github.com/angelinaghimire/AIFellowship)
 
