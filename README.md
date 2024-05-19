@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **ghimireangelina123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/home](https://drive.google.com/drive/u/0/home)
+- 📄 Know about my experiences 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
