@@ -2,8 +2,6 @@
 <h3 align="center">A passionate AI/ML developer from Nepal</h3>
 
 
-- 🔭 I’m currently working on [AI Fellowship](https://github.com/angelinaghimire/AIFellowship)
-
 - 🌱 I’m currently learning **Deep Learning**
 
 - 📫 How to reach me **ghimireangelina123@gmail.com**
